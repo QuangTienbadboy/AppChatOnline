@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508174737197",
+    "project_id": "appchatonline-59225",
+    "storage_bucket": "appchatonline-59225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508174737197:android:1902dc207c4a13ae29fda4",
+        "android_client_info": {
+          "package_name": "com.example.appchatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508174737197-49mu9r1mrqbssh7pqjk446qk3sp55hgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appchatonline",
+            "certificate_hash": "b872d04a73bacd36eaada7f98ce30a3442c08407"
+          }
+        },
+        {
+          "client_id": "508174737197-57qv8nh1sj49umvasperu3l4n76unqst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ZJf5nuLSttQepccMqAROrnLz3aM-LEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508174737197-57qv8nh1sj49umvasperu3l4n76unqst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
